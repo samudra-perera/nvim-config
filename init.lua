@@ -30,6 +30,9 @@ require('lazy').setup {
   require 'plugins.misc',
   require 'plugins.obsidian',
   require 'plugins.markdownrender',
+  require 'plugins.copilot',
+  require 'plugins.copilot-chat',
+  -- require 'plugins.codeium',
   -- require 'plugins.colortheme'
 }
 
