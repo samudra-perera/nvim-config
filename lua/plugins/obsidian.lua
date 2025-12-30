@@ -16,7 +16,7 @@ return {
             folder = 'dailies',
             date_format = '%Y-%m-%d',
             alias_format = '%B %-d, %Y',
-            template = nil,
+            template = '5 - Templates/Full Note.md',
         },
         completion = {
             nvim_cmp = true,
